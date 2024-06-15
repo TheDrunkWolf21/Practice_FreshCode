@@ -1,0 +1,285 @@
+::-webkit-scrollbar { display: none; }
+
+body{
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 400;
+}
+
+header{
+	background-color: #fff;
+	height: 200px;
+}
+
+#Logo{
+	margin: 5vh 0 0 10vw;
+	width: 85px;
+	height: 85px;
+}
+
+nav{
+	float: right;
+
+}
+
+nav > ul{
+	list-style-type: none;
+}
+
+nav > ul > li{
+	display: inline-block;
+  	font-size: 18px;
+  	font-style: normal;
+  	padding-right: 50px;
+  	margin-top: 70px;
+}
+
+#Button_Help{
+	text-transform: uppercase;
+	background-color: #7AE5FD;
+	padding: 20px 30px 20px 30px;
+	margin-right: 40px;
+	border-radius: 87px;
+}
+
+#Button_Help2{
+	text-transform: uppercase;
+	display: inline-block;
+	background-color: #FFFFFF;
+	padding: 20px 30px 20px 30px;
+	margin: 20px 0 0 10vw;
+	border-radius: 87px;
+}
+
+#Button_Help3{
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #7AE5FD;
+	padding: 20px 30px 20px 30px;
+    display: block;
+	border-radius: 87px;
+	width: 200px;
+	margin: 50px 0 0 43vw;
+}
+
+#Button_Help4{
+	text-transform: uppercase;
+	background-color: #7AE5FD;
+	padding: 20px 30px 20px 30px;
+    display: block;
+	border-radius: 87px;
+	width: 200px;
+	margin: 50px 0 0 44%;
+	text-align: center;
+}
+
+#Hero1{
+	height: 1200px;
+	background-image: url("Img/Hero1.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#Hero1 h1{
+	text-transform: uppercase;
+	font-size: 63.07px;
+	line-height: 59.85px;
+	letter-spacing: -0.02em;
+	text-align: left;
+	display: inline-block;
+  	color: #FFFFFF;
+  	margin: 18% 60vw 0 10vw;
+}
+
+#Hero1 h2{
+	display: block;
+  	font-size: 24px;
+  	font-style: normal;
+  	line-height: 1em;
+  	color: #000000;
+  	margin: 30px 70vw 0 10vw;
+}
+
+.SubText{
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+	color: #73A6B1;
+	margin: 10px 0 0 0;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+#Hero2{
+	height: 800px;
+	background-color: #fff;
+	margin-top: -25px;
+}
+
+#Hero2 h2{
+	text-transform: uppercase;
+	font-size: 60px;
+	line-height: 72px;
+	letter-spacing: -0.02em;
+	text-align: center;
+	padding-top: 300px;
+	margin: 0 0 0 0;
+}
+
+#Hero2 h3{
+	font-size: 27px;
+	line-height: 32.4px;
+	text-align: center;
+	margin: 20px 0 0 0;
+}
+
+.Block{
+	display: block;
+	background-color: #97ecffad;
+	padding: 120px 50px 120px 50px;
+	margin: 0 50px 0 50px;
+	border-radius: 10px;
+}
+
+#PhotoHero2{
+	width: 500px;
+	float: right;
+	margin-top: -220px;
+	border-radius: 10px;
+}
+
+#PhotoHero3{
+	width: 500px;
+	float: right;
+	margin-top: -150px;
+	border-radius: 10px;
+}
+
+#Hero3 h2{
+	text-transform: uppercase;
+  	font-style: normal;
+	font-size: 46px;
+	line-height: 55.2px;
+	letter-spacing: -0.02em;
+	text-align: left;
+	padding-left: 50px;
+}
+
+.Block p{
+  	font-size: 20px;
+  	padding-left: 50px;
+}
+
+#PhotoHero4{
+	width: 800px;
+	float: right;
+	margin-top: -414px;
+}
+
+#Hero4{
+	display: block;
+	background-color: #97ecffad;
+	padding: 120px 50px 120px 50px;
+	margin: 400px 50px 0 50px;
+	border-radius: 10px;
+}
+
+#Hero4 h2{
+  	font-size: 24px;
+  	font-weight: 200;
+  	margin-right: 50vw;
+}
+
+#Hero5{
+	display: block;
+	margin-top: 400px;
+}
+
+#Hero5 h2{
+	text-transform: uppercase;
+  	font-size: 48px;
+  	margin: 0 30vw 0 35vw;
+}
+
+#Hero5 i{
+	color: #97ecffad;
+}
+
+#SubText{
+	font-size: 24px;
+  	margin: 50px 30vw 0 41vw;
+}
+
+#Numbers{
+	font-size: 48px;
+  	margin: 20px 30vw 0 44vw;
+}
+
+#Hero6{
+	background-color: #F9FADF;
+	margin-top: 200px;
+	font-size: 32px;
+	padding-bottom: 100px;
+}
+
+#Contact h2{
+	text-transform: uppercase;
+	padding: 150px 0 150px 20vw;
+	font-size: 60px;
+	line-height: 72px;
+	letter-spacing: -0.02em;
+}
+
+#FirstText{
+	margin: -200px 10vw 100px 60vw;
+
+}
+
+#SecondText{
+	margin: 0px 10vw 100px 60vw;
+}
+
+.Logo{
+	width: 40px;
+}
+
+#SubBlock{
+	margin: -320px 5vw 20px 40vw;
+}
+
+form {
+	background-color: #fff;
+	padding: 0 0 100px 0;
+	margin: 0 2vw 0 2vw;
+	border-radius: 10px;
+}
+
+form input{
+	border-radius: 87px;
+	background-color: #F9FADF;
+	padding: 20px 30px 20px 30px;
+	border-style: none;
+	color: black;
+	width: 45%;
+	margin: 30px 0 0 40vw;
+}
+
+#Button_Help5{
+	text-transform: uppercase;
+	border-radius: 87px;
+	background-color: #7AE5FD;
+	font-size: 20px;
+	padding: 20px 30px 20px 30px;
+	width: 45.3%;
+	margin: 30px 0 0 40vw;
+	text-align: center;
+}
+
+#SubTextHero5 {
+	margin-left: 44vw;
+}
